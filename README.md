@@ -1,5 +1,3 @@
-# wiki_crontab
-
 # Editamos el cron
 ```  
 crontab -e
